@@ -1,6 +1,4 @@
-# WiPs/ Future Projects
-
-<h2>WiPs:</h2>
+# Future Projects
 
 
 
