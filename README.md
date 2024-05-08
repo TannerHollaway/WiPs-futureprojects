@@ -28,3 +28,5 @@
 - <b>[Analyzing malware](Link)</b>
 
 - <b>[Creating a SOC enviorment using letsdefend.io](Link)</b>
+
+- <b>[Creating a Python Password strength checker](Link)</b>
