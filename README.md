@@ -29,4 +29,4 @@
 
 - <b>[Creating a SOC enviorment using letsdefend.io](Link)</b>
 
-- <b>[Creating a Python Password strength checker](Link)</b>
+- <b>[Creating a Python Password strength checker based on OWASP standards](Link)</b>
