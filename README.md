@@ -19,9 +19,6 @@
 
 
 
-
-<h2>Future Projects:</h2>
-
 - <b>[Creating a KeyLogger](Link)</b>
 
 - <b>[Creating an SEIM Tool](Link)</b>
