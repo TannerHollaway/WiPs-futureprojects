@@ -19,7 +19,6 @@
 
 
 
-- <b>[Creating a KeyLogger In Python](Link)</b>
 
 - <b>[Creating an SEIM Tool](Link)</b>
 
