@@ -31,4 +31,6 @@
 
 - <b>[Creating a Python Password strength checker based on OWASP standards](Link)</b>
 
+- <b>[Creating a tool that only allows logins at certain times in python](Link)</b>
+
 - <b>[Identifying and remediating vulrenabilites](Link)</b>
